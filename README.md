@@ -8,7 +8,7 @@ My name is Dave, and I am a Full Stack engineer working on Ecoomerce, AI, and Au
 
 - 👯 I’m looking to collaborate on AI automation ideas
 
-- ⚡ Fun fact: I'm an old car fanatic, makeing old stuff work, and new code work makes my day.
+- ⚡ Fun fact: I'm an old car fanatic, making old stuff work, and new code work makes my day.
 
 <!--
 **dmalpass/dmalpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
