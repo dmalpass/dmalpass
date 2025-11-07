@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Dave, and I am a Full Stack engineer working on Ecoomerce, AI, and Automation.
+
+- 🔭 I’m currently working on n8n automations
+
+- 🌱 I’m currently learning n8n
+
+- 👯 I’m looking to collaborate on AI automation ideas
+
+- ⚡ Fun fact: 
+
 <!--
 **dmalpass/dmalpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
